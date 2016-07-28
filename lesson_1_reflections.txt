@@ -1,0 +1,90 @@
+How did viewing a diff between two versions of a file help you see the bug that 
+was introduced?
+
+   
+
+Teo(2 years old): It is very helpful. My mind is blown away from its helpful properties.
+Geo: Instead of having to go through the entire file, we only had to check the segments that were altered. This made
+the bug finding process considerably faster and more efficient.
+
+
+
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+    
+
+Teo: This way I can see my former mistakes and thoughts. History is a very vasika simantiko precious ring part of the human race.
+
+Geo: Having older version of your files is quite useful. You have available versions that worked, even without having all the features of the current ver.
+So, if you make a mistake and you cannot seem to find what is causing it, you can always go back to an older version (that works) and figure it out.
+That way you minimize the time spent on bug and error finding.
+
+
+
+
+
+
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+  
+
+Teo: + I like to be in control                        
+     + I can make a commit for each specific change
+     
+     - I have to spend time to commit manually
+ 
+Geo: + You make better calls of when it is better to commit
+     + You can add comments on what the commit is about
+     
+     - You are prone to forgetting to commit when you should
+     
+
+
+
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    
+
+Teo: In order to save multiple files together I must be stupid.
+
+
+Geo: Because version control systems like Git are made specifically for coding tasks, which more often than not have multiple files ascosiated with each other,
+     and changes made to one of them directly affects the others.
+
+
+
+
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+   
+
+Geo: By using these commands in git bash, duh.
+
+Teo: What he said^
+
+
+
+
+How might using version control make you more confident to make changes that
+could break something?
+
+   
+
+Geo: Because you can always go back to a stable version.
+
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+   
+
+Geo: Building our apps when this fcking course is over!!!111!!ena!!!!!!
