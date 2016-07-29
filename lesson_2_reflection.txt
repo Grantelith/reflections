@@ -5,10 +5,21 @@ A .git folder is created. We need to do it in order for the files to become asso
 
 
 
+
+
 How can you use the staging area to make sure you have one commit per logical 
 change?
 
 By comparing with your working dir and repository to make sure your commit is not too big.
+
+
+
+
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+When you want to have different versions of your project. Branches help because the do store different versions of your code.
 
 
 
@@ -26,15 +37,24 @@ What value do you think it offers?
 
 
 
-What are some situations when branches would be helpful in keeping your history
-organized?
- How would branches help?
+
+
+
+
+
 
 How do the diagrams help you visualize the branch structure?
 
-What is the result of merging two branches together? 
-Why do we represent it in
+
+
+
+What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Because they are merged...
+
+
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
-manually?
+ manually?
+
+It saves time ;) 
