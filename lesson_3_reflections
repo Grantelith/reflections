@@ -12,3 +12,6 @@ Why might you want to always pull changes manually rather than having Git automa
   Forks are used when you want to use/alter files from other github users that you do not have permission to alter.
   Clones are used to be able to edit files on your computer (usually when it is code).
   Branches are used when you want to have different versions of your files.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+ So you can work offline.
