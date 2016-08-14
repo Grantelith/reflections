@@ -19,3 +19,8 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
   Using Dropbox or another cloud service. The only way something would be easier than using github and git would be to work with the collaborator
   on the same workspace. Other than that, it would be extremely hard for multiple people to make changes on the same file, without version-control.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+ You make changes to other branches when you want an experimental future which you do not know for sure works and you also want your
+ collaborator(s)'s opinion on. Whereas, working directly on master makes updating your local and remote branches easier but also
+ susceptible to bugs etc.
